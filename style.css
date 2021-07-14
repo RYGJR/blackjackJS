@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap');
+
+
+body {
+    background-color: #1aaf6f;
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Varela', sans-serif;
+    font-size: 3vw;
+    font-weight: bold;
+    
+}
+
+h1 {
+    color: yellow;
+    font-size: 5vw;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Varela', sans-serif;
+    text-align: center;
+    text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000 ;
+    cursor: pointer;
+    outline: none;
+    color:#fff;
+    background-color:yellow;
+    border: none;
+    border-radius: 15px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 200px;
+   
+}
+
